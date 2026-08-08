@@ -1,1 +1,458 @@
 return({qJ=function(C,R)(R[0X1])[0x7]=(function()local K=C:cJ(R);(C):v(R,K);C:ZJ(R,K);local K,F;for g=108,195.0,0x57_ do if C[0XE]~=C[0x37]then(C)[0X16]=(C[48]%C[0x15]);(C)[0X19]=-C[0B110011];end;K,F=C:Q(g,R,K,F);end;if 0X23B==0B1011100 then C[0X1E]=(-C[0x22]);(C)[0x33]=C[0B11110]*C[0B10111];end;(C):aJ(K,R);(C):FJ(R,F,K);(C):f(R,F);local K=C:JJ(R,F);(C):IJ(R);(C):E(R);return K;end);end,iJ=function(C,R,T,q)local J,S,c,a;for z=0X80,0b11001111_,79.0 do J,S,c,a=C:A(z,R,J,S,c,a);end;local b,E,_;for H=0x5E,0xE5,0X87 do if C[0X9]then if C[0b110]==C[13]then C[16.0]=C[0b101100]%C[18.0];else C[0B100000]=(-C[39.0]);end;if not(C[0x25])then(C)[0b100001]=(-(-C[0XC]));(C)[41.0]=(-C[0X8]);end;else if C[0x33]then if C[0x39]~=0x291 then C[0x2D]=(-(-C[0x4]));end;else if C[0X3A]then(C)[0X25]=(C[0X25]*C[61.0]);end;b,E,_=C:G(H,J,c,R,b,E,_);end;end;end;local J,c,D;for A=0x36,0X97,0X61__ do J,c,D=C:rJ(A,_,R,a,S,J,c,D);end;local a=C:K(J,_);for _=60.0,0XFF,195 do if C[0X1B]~=C[0x1A]then C[0x32]=-(-C[0b100100]);C[0X1A]=(C[0X29]-C[0b11101]);end;C:x(_,a,E,q,D,T);end;for E=0B1000110,0XB5,0x6F do(C):wJ(E,T,q,c,b);end;if J==0b0 then if C[0X36]then C[0B111_]=(-C[0b110111__]);end;C:y(R,q,T,a);elseif J==0X1 then if not C[0x18]then C:pJ(T,a,q);else C[0b100010]=C[18]*C[0X39];C[0X1A]=(-C[0X1E]);end;else if C[0x8]then C[0B101110]=0XE7+C[47];C[0X34]=0xC2%C[0X3B];end;(C):g(a,J,q,T);end;if C:zJ(S)then if C[42]then if C[0B101010]then(C)[0x2C]=(473.0%C[0x1F]);C[0X35]=(0XD1+C[0XB]);else C[0b100111]=C[0B100011]+C[0x2E];end;else if not C[0x26]then if 521.0==0X2C6 then(C)[0x33]=-C[0X27];C[0x15]=(-(-C[20]));end;C:hJ(D,R,T,q);else C[0X2C]=(C[0XF]*C[11]);end;end;elseif C:w(S)then if not C[0x2A]then(C):YJ(T,q,D);else if C[0X18__]~=408.0 then(C)[0X38]=0X15*C[0x26];else(C)[0X2]=0xD2*C[47.0];end;(C)[0X2F]=(414.0-C[0X29]);end;elseif C:F(S)then if C[0b110001]~=C[0x38_]then C[0XE]=(-C[58.0]);C[0X1D]=-C[0b1110];end;C:W(T,D,q);else if not C[17]then(C):sJ(R,D,T,q,S);else C[43.0]=(-C[0X5]);end;end;end,oJ=function(C,R,T)local Q=(C.nJ("\62\x692","\x00\x31"));repeat if Q<0B1110111 then if 0x2D8==743 then if not(C[17.0])then C[30]=-C[0B101000];(C)[0x3F]=0B1011010%C[0x2A];else(C)[0x32]=-C[0x13];end;if C[0x3A]~=471 then C[9.0]=C[0X21]+C[0b11101__];(C)[32]=(-(-C[0x36]));end;end;Q=C:b(Q,C.mJ);else if Q==0b1110111 then if R<=147 then(C):n(T);else if R>0X93 and R<=273.0 then C:o(T);end;end;break;end;end;until false;end,p=function(C,R,T,q)local S=T+(R%0X80)*q;return S;end,kJ=function(C,R,T)if C[0x7]then(C)[0b110000]=(193*C[0x27]);end;for q=0X1,T do(C):PJ(R,q);end;end,J=function(C,R)local D=(R~=0B10110010_);return D;end,XJ=function(C,R,T)R=(158444854.0+(C.m((C.GJ((C.AJ((T[1.0]<=T[0X8__]and T[0XB]or T[5]),0B111)),T[0X3])),T[0X4]))+T[0x6]-T[0X3]-T[0x6]);return R;end,h=function(C,R,T)local E=-0X843FA6DA+(C.mJ[0b101]>C.mJ[3]and C.mJ[0x9]or C.mJ[3.0]);while true do if E==139.0 then if R==0x34 then T[1][0x3__]=C.AJ;T[0b1][0X19]=C.dJ;else if R==0x142 then(T[1])[9.0]=C.lJ;else if R==0xBB then T[0X1][0xF]=C.jJ;(T[0X1])[5.0]=(C.HJ);end;end;end;break;else if E==0B101001 then if 329==0x186 then C[12.0]=(-C[0x13]);(C)[0X13]=(-C[21]);end;E=-0x8CB37A0C+C.mJ[0B1010];(C.u)[0x9E]=E;end;end;end;end,A=function(C,R,T,q,u,c,x)local L=(8);while true do if L==0x8 then if C[0B11]~=C[0B111111]then C[0x17]=-C[0x8];if C[0x39]then(C)[0x39]=C[0X29]-C[0x2E];(C)[0x26]=C[0X14]-C[0B101010];end;end;L=C:O(L);(C.u)[98]=L;else if L==0x5E then if R>=0xCF then q=T[0X1][0B1000]();c=C:QJ(q);else if R>=0x80 then x=T[0b1][0b1000]();u=(x%0B1000);end;end;break;end;end;end;return q,u,c,x;end,q=string,IJ=function(C,R)(R[0x1__])[36]=nil;end,u={},vJ=string.gsub,uJ=function(C,R)(R[0X1])[0X24]=nil;end,o=function(C,R)(R[0X1])[0XD]={};end,LJ=function(C,R,T,q)(C):VJ(T,q,R);end,zJ=function(C,R)local v=R==0x0__;return v;end,c=function(C,R)(R[1])[0X20]=C.M;end,WJ=function(C,R,T)local j=(R+T);return j;end,l=function(C,R)(R[0x1])[0X1B__]=(C._);end,tJ=function(C,R,T)local t=-0x61760352+(C.GJ((C.AJ(C.mJ[0B101],0X4)),(C.k((C.mJ[0x5__]>C.mJ[0XA__]and C.mJ[9.0]or C.mJ[0X6__]),0X5))));while true do if t>=0X1D and t<0B1101000 then if C[0X1F]then(C)[0XA]=(C[7.0]+C[0b11010]);if C[0x1F]==C[0x4]then C[6]=-(-C[0b111100]);C[0XD]=(-(-C[0x28]));end;end;t=0X68;C.u[0x148]=t;else if t==0b1101000 then if R<=127.0 and R>18 then(C):i(T);else if R==0B10010 then C:uJ(T);C:T(T);end;end;break;end;end;end;end,DJ=function(C,R,T,q)(R[0X1][0X1F])[T+0x1]=(q[0B111]);end,D=function(C,R)local i=(R[0B1][0X1]+0X1);return i;end,MJ=function(C,R,T)R=(0XF09040F+(C.k((C.k((T[0xB]>=T[0x6_]and T[0X5]or T[0x2]),3)),0X3))-T[0X2]-T[0x1]-T[0X1__]);return R;end,UJ=function(C,R)local q=R-R%0x1;return q;end,PJ=function(C,R,T)(C):CJ(T,R);end,I=function(C,R)local g=R-R%0B1;return g;end,_J=function(C,R)(R[0x1])[0x2]=(function(...)local E=R[1.0][0xF]("\x23",...);if E==0 then return E,R[0X1][0x25];end;return E,{...};end);end,SJ=function(C,R,T,q,u)local P=(C.nJ("\60i\50","\x2b\0"));repeat if P>=0b1001010 then if R<0X63 then q[10]=u[0x1][0b10100](T);else if R==0x63 then(q)[0b1011]=u[0X1][20](T);end;end;break;else if P<74.0 and P>=0X2B then if 976.0==877.0 then if C[63.0]then(C)[0X20]=-C[0X24];(C)[0X8]=(C[52]+C[0xF]);else(C)[0b10001]=C[0x3F]+C[0X25];end;if not(C[23.0])then(C)[41.0]=(-C[0x13]);else(C)[62]=(C[0X2E]*C[0x11]);C[55.0]=0x14D-C[0b10010];end;end;P=(-0XF0CE5548+(C.GJ((C.AJ((C.mJ[0B100]<C.mJ[0x9]and C.mJ[0X2]or C.mJ[10.0]),0xE)),(C.r(C.mJ[0X5],0X3)))));end;end;until false;end,fJ=table.concat,Z=function(C,R,T)if R==0b10010100 then(T[0B1])[0xB]=(C.OJ);T[0x1][0x1D]=C.vJ;else if R==0x106 then T[0x1][0X15]=C.d;T[0x1][0x27]=(C.nJ);else if R==0X178 then(T[0X1])[0x17]=C.gJ;end;end;end;end,xJ=function(C,R)local J=C:X(R);local _=C.dJ(J);for J=101,0XDF,0b1111010 do C:BJ(J,_);end;for h=148.0,0X178,0X72 do if C[0x37]then(C)[0x28]=(0X146-C[0x24__]);C[0x19]=-C[0B101001];else(C):Z(h,_);end;end;for H=0X1F,0B1100010,0X43 do C:eJ(H,_);end;for B=0b110100,0X142,135.0 do if not C[0X27]then C:h(B,_);else C[0x26]=(0X10E*C[0X1A]);end;end;for T=0X19,143.0,0B1110110 do C:P(T,_);end;(C):TJ(_);for n=0X8D,0B11101100,0X5F do if 0x3B0==0xC6 then(C)[39.0]=-C[0x39];C[0x27]=(C[26.0]*C[0x21]);end;(C):yJ(n,_);end;for w=0x34,129,77.0 do(C):EJ(w,_);end;for m=0X93,0X111,0X7E do C:oJ(m,_);end;(C):j(_);for j=0X78,0xFA,0x82 do(C):bJ(j,_);end;C:_J(_);if C[0X33]then C[0B10110]=-C[0x27];if C[0x30]then(C)[0X39]=0X1F1%C[3.0];end;end;for E=0x12,0x7F,0X6D do C:tJ(E,_);end;for f=0x45__,0XC0,123 do C:R(f,_);end;local z=C:B(_);local x=C.dJ(z);return(_[0B1][0x6](x,_[0x1][0XD]))(C.H,C.RJ,C.KJ);end,k=bit32.rrotate,M=tostring,NJ=function(C,R)(R[0X1])[0X18]=function()local Y=C:qY(R);(C):Y(R);return Y;end;end,RJ=function(...)return(...)[...];end,qY=function(C,R)local P=R[0x1][0x15](R[0X1][0x11],R[1][0X1],R[0X1][0x1__]);return P;end,oY=function(C,R,T,q,u,c)local m=(u*0x31C84B1+R*614125+c*7225+q*0X55+(T+-0X67E605CD));return m;end,HY=function(C,R)(R[0B1])[1]=R[0x1][0x1]+0x1;end,G=function(C,R,T,q,u,c,x,Z)if 0X224__==0X31A then C[0X19]=(0x15D-C[0xB]);end;if R==0xE5 then c=u[1][8.0]();else if R==94 then Z=u[0X1][0B1000]();x=C:N(T,q);end;end;return c,x,Z;end,z=function(C,R)(C):S(R);(C):NJ(R);end,U=function(C,R)(R[0X1])[30]=function()if 0x2F0==477 then C[13]=(-(-C[0X2D]));(C)[0x3B]=(C[0b100010]%C[0X3E]);end;local N,a=C:C(R);C:MY(R,N);return a;end;end,f=function(C,R,T)for L=0x1,#R[0x1_][0x1F],0x3 do C:s(R,L,T);end;end,K=function(C,R,T)local D=C:tY(T,R);return D;end,L=function(C,R,T,q,u,c)if C[0B100110]then(C)[13.0]=(-C[50]);else for y=0x1,c,0X5 do local e=C:t(R,T,q,u,y);u=C.dJ(e);end;end;return u;end,C=function(C,R)local v,A=R[0X1][0x27]("\60d",R[0x1][17.0],R[1.0][1.0]);return A,v;end,DY=function(C,R)local U=(R*0x80);return U;end,a=function(C,R,T,q)local y=(-0x1AF82CFD+C.mJ[0X3]);while true do if y>0X1C then if R==0x90 then T=T/0x100;T=T-T%0X1;else if R==0x108 then q=(T%0x100);end;end;break;else if y==0x1C then if C[10]~=C[0X29]then C[0B110]=C[0B101101]-C[0X36];C[0x3B]=(C[0b100001]+C[0X29]);end;y=0x3D;(C.u)[0b111]=y;end;end;end;return T,q;end,aJ=function(C,R,T)(T[0X1])[0X1F]=T[0B1_][0X14](R*0X3_);end,_Y=function(C,R)local _=R%0x8;return _;end,e=function(C,R,T)local s=R[0x1][0X1]+T;return s;end,V=function(C,R,T,q,u)if R<0X12A then u=T[0X1][0x8]();else if R==0X12A then q=T[0X1][0b10111](T[0x1][0X11],T[1][1],T[0B1][0x1]+u-0B1);end;end;return q,u;end,XY=function(C,R)(R[0b1])[0b1]=(0x1);end,jJ=select,RY=function(C,R,T,q)local L,s,H,m;local Q=(C.nJ(">\1054","\0\u{0}\x00\u{1f}"));while true do if Q>=0X60 then m=(C.nJ("<\x693","\13\0\0"));break;else if Q>=0B11111 then Q=-0X1AF82CB9+C.mJ[0x3];end;end;end;while true do if m==0X23 then H=C:TY(s);m=C:XJ(m,C.mJ);(C.u)[470.0]=m;else if m==0XD then L=C:xY(T);s=C.dJ(L);m=0x23;else if m==0x39 then C:fY(q,H,R,s);break;end;end;end;end;end,ZJ=function(C,R,T)for F=0x1,T do C:yY(R,F);end;end,P=function(C,R,T)local v=(C.nJ("<I1","\u{f}"));repeat if v>=15 and v<63 then if C[0b100010]then(C)[0x2]=(-(-C[0xE__]));C[0x36]=-C[0X19];end;v=C:cY(v,C.mJ);else if v==0X3F then if R<=0B11001 then(T[0x1])[0x12]=(C.kY);else if R<=0X8F then T[0x1][35.0]=(setfenv);end;end;break;end;end;until false;end,iY=function(C,R)local L=(-0X4911CAB+(C.k((C.PY((C.k((C.nJ(">d","\u{41}\226\z \x23\x9b\x86\128\x00\z  \u{0}")),0b111)),0x3)),0x4)));while true do if L<=0x31 then(C):c(R);L=(-0x1AF82C97+(C.mJ[0x9]>=C.mJ[1]and C.mJ[3]or C.mJ[0X9]));C.u[65.0]=(L);else if L<=0X82 then C:AY(R);break;end;end;end;end,rJ=function(C,R,T,q,u,c,x,Z,r)local D=(48);repeat if D==48.0 then if C[0X26]then C[0x1B]=0XFE%C[0X2B];C[0x24]=(0b10011010-C[0b1101]);end;D=C:FY(D,C.mJ);else if D==0x45__ then if R==0x36 then Z=q[0b1][0x8]();r=C:dY(c,u);else if R==0x97 then x=C:_Y(T);end;end;break;end;end;until false;return x,Z,r;end,CJ=function(C,R,T)(T)[R]=nil;end,GY=function(C,R,T)T=R[0X1][0X1A]();return T;end,r=bit32.lrotate,v=function(C,R,T)(R[0x1])[0X24]=R[0x1][0x14](T);end,vY=function(C,R,T,q,u,c)if R>0X75 then u=T[1][0X14](q);else if R==0X75__ then c=({nil,nil,nil,nil,nil,C.BY,C.BY,C.BY,nil,C.BY,C.BY});q=T[0X1][8.0]();end;end;return q,u,c;end,fY=function(C,R,T,q,u)(R)[q]={[0b1]=T,[2.0]=u%0B100};end,AY=function(C,R)(R[1.0])[0b10100]=(function(w)local H=C:uY();if C[0x28]then C[0xC]=(C[0b110001]+C[0X7]);if not(C[0X12])then C[0X29]=-(-C[0x6]);end;end;local J=C.dJ(H);C:kJ(J,w);return J;end);end,PY=bit32.lshift,rY=function(C,R)(R[0B1])[33]=(function()local u,B,N;for q=117.0,0xE2,0X6D do if C[0XF]then(C)[0x28]=-C[0x1B];end;u,B,N=C:vY(q,R,u,B,N);end;(C):hY(R,u,B);local u=C:bY(R);for T=0b10111,323,0b10010110_ do if C[0X10]~=C[0xE]then(C)[0X10]=C[63.0]-C[19.0];end;C:IY(T,R,B,N,u);end;for B=0X29_,0x83,0x5A do if not C[0x1C]then if not C[0B100111]then if not C[0X11]then if 442==0X128 then(C)[4.0]=-C[0b100];C[19]=(-C[0XC]);end;C:mY(B,N,u,R);else C[35.0]=(0x2E/C[0XE]);end;else if not(C[0B111])then C[0x28]=(0x183+C[0b10101]);else C[0B111111]=-C[0B11111];end;end;else if C[0x3D]==C[0X32]then(C)[0x33]=65.0%C[0XF];(C)[0x8]=(C[0B101100]*C[0X37]);end;end;end;for x=49,0x63,0b110010 do if C[53.0]then(C)[0x14__]=C[63]*C[0X9_];if C[46.0]~=324 then C[0X34]=(-(-C[56.0]));C[0x23]=-C[43.0];else C[44.0]=-C[0X1];end;end;C:SJ(x,u,N,R);end;C:SY(u,N,R);for u=0X46,148,0b1001110 do if C[24.0]~=C[0B110]then C[58]=C[0X20]/C[0X3C];end;C:KY(u,N,R);end;return N;end);end,bY=function(C,R)local S=R[0X1][8.0]();return S;end,EJ=function(C,R,T)if R<=52.0 then(C):nY(T);(C):sY(T);else if R<=0x81 then(C):eY(T);end;end;end,E=function(C,R)(R[0B1])[0x1F]=nil;end,jY=function(C,R,T)R=T[0x1][0X1E]();return{R};end,pY=function(C,R)local K,Z=R[0x1][0x27__]("<i8",R[0x1][0B10001],R[0X1][0X1]);return K,Z;end,S=function(C,R)(R[0b1])[0X10]=({});end,w=function(C,R)local G=R==0x1;return G;end,JY=function(C,R)(R[0x1])[0x1A]=(function()local g,L;if C[0X8]then(C)[0X10]=(-C[57.0]);else g,L=C:pY(R);end;C:WY(R,L);return g;end);end,CY=function(C,R,T,q)(T[1][0X24])[q]=R;end,MY=function(C,R,T)(R[0X1])[0x1]=(T);end,lJ=error,NY=function(C,R)local E=(R[0X1][0x18]()==0x1);return E;end,EY=function(C,R)(R[0X1])[0X8]=(function()local Q;if C[0XE]then(C)[0xB]=(0XBD*C[0x27]);else Q=C:lY();end;local p,e=C.dJ(Q);local Q=C:zY(e,p,R);p,e=C.dJ(Q);return e;end);end,UY=function(C,R,T)(C):VY(T,R);end,t=function(C,R,T,q,u,c)local E,V,Z,M,z,_=C:OY(q,T,c);for z=0X56,0xAF,0X59 do if C[0B1100]~=C[0x38]then C[0X16]=(C[0X13]%C[0X38]);end;E,V=C:QY(z,E,V);end;for a=0B101111,0B10111101,0X8E do if C[0xA]then(C)[0x2C]=(222*C[0X14]);C[0x1F]=(0X151/C[0b11001]);end;M,V=C:wY(a,M,V);end;for X=0X90,0x108,0X78 do V,Z=C:a(X,V,Z);end;V=C:gY(V);for Y=0XE,0x40,0X32 do if C[0x39]~=C[0x17]then if C[0xD]then C[0X14__]=(-C[40.0]);C[0xE]=-C[0x2F_];end;end;V,u,_=C:ZY(Y,V,u,_);end;(C):LY(R,Z,u,E,T,M,_);return{u};end,tY=function(C,R,T)local e=(R-T)/0x8;return e;end,VY=function(C,R,T)(R[0x1][0b100010])[T]=R[1.0][0XB](T);end,aY=function(C,R)local _=R+0b1;return _;end,mY=function(C,R,T,q,u)local A=(C.nJ(">\u{69}1","\u{10}"));while true do if A==0x10 then if C[0x32]~=C[0X1A]then C[0B110000]=C[46]-C[0x22];end;A=(-0X6C76DDAD+(C.mJ[0X6]<C.mJ[0xA__]and C.mJ[0B1000]or C.mJ[0x9__]));(C.u)[0b10101001]=A;else if A==0x6D then if R<=0x83 and R>0b101001 then T[0x9]=u[0B1][0B10100](q);else if R==41 then T[0x8]=u[0X1][0x14](q);end;end;break;end;end;end;end,OJ=string.char,yJ=function(C,R,T)if R>=0XEC then(T[1.0])[0X22]={};else if R<0b11101100 and R>=0X8D then(T[0X1__])[0X25]=({});end;end;end,Y=function(C,R)(R[0B1])[0B1]=C:D(R);end,YJ=function(C,R,T,q)(T[0b1010])[R]=C:WJ(R,q);end,YY=function(C,R)local u=R[0X1][0B10101](R[0X1][0b10001],R[1][0x1]);return u;end,xY=function(C,R)local W=R[0X1_][0X8]();return{W};end,kY=getfenv,pJ=function(C,R,T,q)(q[4.0])[R]=R+T;end,sY=function(C,R)(R[0X1])[0XC]=function(V,G,X,I)if G>X then return;end;I=X-G+0x1;if I>=0b1000__ then return V[G],V[G+0X1],V[G+0b10],V[G+0x3],V[G+0b100],V[G+0x5],V[G+0b110],V[G+0x7],R[0X1][0XC](V,G+8.0,X);elseif I>=0X7 then return V[G],V[G+0x1],V[G+0x2],V[G+0X3],V[G+4],V[G+0x5],V[G+0B110],(R[0X1][0b1100])(V,G+7.0,X);else if I>=0B110 then return V[G],V[G+0x1],V[G+0x2],V[G+0X3],V[G+0x4],V[G+5.0],(R[1][0B1100__])(V,G+0x6_,X);elseif I>=0X5 then return V[G],V[G+0b1],V[G+2.0],V[G+0x3],V[G+0X4],R[0B1][0xC](V,G+0X5,X);else if I>=0x4 then return V[G],V[G+0b1],V[G+0X2],V[G+0X3],(R[0x1][0XC])(V,G+0x4,X);elseif I>=0x3 then return V[G],V[G+0b1__],V[G+2],R[0x1][12.0](V,G+0x3,X);else if I>=0x2 then return V[G],V[G+0b1],(R[0B1][0xC])(V,G+0X2,X);else return V[G],R[0x1][0xC](V,G+0x1,X);end;end;end;end;end;end,HJ=pcall,cY=function(C,R,T)R=(-0x6C76DDDB+(T[0X6]<=T[8.0]and T[0x8]or T[11]));return R;end,X=function(C,R)local t=({R});return{t};end,Xj=function(C,R,T)R=417804604+(C.m((C.AJ((T[0B1100]<=T[0x2_]and T[0xB]or T[0x9]),6)),(C.Uj((T[0B110]>=T[0X3]and T[0XC]or T[0B1000]),(C.nJ("\x3ed","\u{41}\212\xbc\250\u{1b}\x00\0\x00"))))))-T[0x3];return R;end,KY=function(C,R,T,q)local M=30.0;repeat if M==0x1E then if C[0x26]then if C[0XA]==C[0x32]then(C)[0B1100]=C[0X7]+C[0b11011];else(C)[0b10001]=-(-C[0X31]);C[0x7]=(-(-C[0B101011]));end;end;M=(C.nJ("\u{3c}\x492","\x38\0"));(C.u)[249.0]=M;else if M==0X38 then if R<=0x46 then T[0B110]=q[0x1][0X8]();else if R<=0B10010100 then(T)[0x1]=q[0X1][0X8]();end;end;break;end;end;until false;end,mJ={126503518,0X10ECD5E9_,452472089,830912734,0x3E19C2C4,0x52F3E86C,1645988277.0,0X6C76DE1A_,0X843FA703,0x8CB37A97,2404815460,2434587700},dY=function(C,R,T)local w=(T-R)/0x8;return w;end,BY=nil,kj=function(C,R,T,q)q=nil;if C:J(T)then q=C:Lj(q,R);else q=C:GY(R,q);end;return q;end,VJ=function(C,R,T,q)(q)[R]=T[0x1][0x21]();end,IY=function(C,R,T,q,u,c)if R<=0x17 then(u)[0x2]=(q);(u)[0X3]=T[0X1][0B10100](c);else if R>0x17_ and R<=0XAD then(u)[0x4]=T[0X1][0B10100](c);u[5]=T[0b1][0X14__](c);else if R<=0x143_ then u[0X7]=T[1.0][0X14](c);end;end;end;end,O=function(C,R)R=-0x68C8D763+(C.k((C.k((C.nJ(">\073\x38","\u{0}\u{0}\z  \0\u{0}\u{1a}\xf8\x2d\u{19}")),0X7)),0X6));return R;end,SY=function(C,R,T,q)if C[0X4]then C[0B111]=(C[0b1110]%C[0X26]);if not(C[22.0])then C[0x19]=(C[0X9]%C[0x2B]);end;else for k=0x1,R do(C):iJ(q,k,T);end;end;end,Lj=function(C,R,T)R=T[1][0b1110]();return R;end,g=function(C,R,T,q,u)if T==4.0 then(C):Ej(q,R,u);end;end,hJ=function(C,R,T,q,u)(u[0X7])[q]=(T[1][0x24][R]);end,s=function(C,R,T,q)(C):wj(R,T,q);end,N=function(C,R,T)local o=((R-T)/0X8);return o;end,b=function(C,R,T)R=(-0x11FFC9+(C.m((C.m((T[0X6]+T[0x4]),(T[0X5]-T[0X4]))),(T[6.0]<T[0X1]and T[0X9]or T[6.0]))));return R;end,sJ=function(C,R,T,q,u,c)if c==0x2 then local W=C:dj(R);(C):DJ(R,W,u);for I=0x42,126,0x3C do if C[0B10001]~=C[34.0]then if C[0b110]then C[23]=-C[24];else(C)[2.0]=(-C[0x3C__]);C[0X8]=(-(-C[0X13]));end;(C)[0X1B]=(C[18.0]+C[0X2B]);end;(C):vj(I,T,R,q,W);end;end;end,dj=function(C,R)local _=(#R[0x1][0X1F]);return _;end,nY=function(C,R)if C[0X5]then(C)[0x20]=(-C[0x6]);else for v=0.0,0XFF do(C):UY(v,R);end;end;end,Nj=function(C,R,T)(R[0x1])[0X1]=C:e(R,T);end,wJ=function(C,R,T,q,u,c)if R==0xB5 then q[0XB][T]=u;else if R==0x46 then(q[0X3])[T]=(c);end;end;end,yY=function(C,R,T)local h,W=C:Cj(R);if W==0XFC then local D=C:fj(R,h);if not C[0b101011__]then h=C.dJ(D);else(C)[4]=(387.0+C[0X37]);end;elseif W==0X25 then local c=C:jY(h,R);if C[0X19]then(C)[12]=C[0b11110]-C[32.0];else h=C.dJ(c);end;else if not C[0x3]then h=C:kj(R,W,h);else if C[49.0]~=0X181 then(C)[0X39]=-(-C[0X3B]);C[0X30]=(-(-C[0X2B]));end;end;end;C:CY(h,R,T);end,Jj=setfenv,W=function(C,R,T,q)(q[0xA])[R]=C:Wj(R,T);end,d=string.byte,nJ=string.unpack,Uj=bit32.bor,QJ=function(C,R)local a=R%8.0;return a;end,j=function(C,R)(C):z(R);end,ej=table,GJ=bit32.bxor,gJ=string.sub,tj=function(C,R)(R[1])[0XE]=function()local u,M;if not C[0x2E_]then for t=0X88,0x12A,0b10100010 do if not C[0X18]then if not C[0X2_]then if C[0X10]then(C)[0X22]=(0X5F%C[0B11100]);C[0X1E]=0X167__-C[0X23];end;u,M=C:V(t,R,u,M);else C[0B100101]=C[58]+C[0x26];(C)[31.0]=(-C[56.0]);end;else C[0b110]=-C[0B100_];end;end;else(C)[0x11]=C[0x2A]-C[0XA];end;(C):Nj(R,M);return u;end;end,OY=function(C,R,T,q)local a,X,E,l,Z,n,N;local O=-0x7EB51054__+(C.AJ((C.r((C.mJ[0x5]+C.mJ[5]),0b1)),0X2))+C.mJ[0x4]+C.mJ[0X1]+C.mJ[0x1];repeat if O>=0X4E then N=0B110001+(C.r((C.PY((C.mJ[2.0]-C.mJ[2.0]),5.0)),4));break;else if O>=10 then O=(-4294943950.0+(C.Rj((C.AJ((C.AJ((C.mJ[0X9]+C.mJ[4.0]),0x4)),0xD)))));end;end;until false;while true do if N==49 then a,X,E,l,Z=T[0X1][0X15](R,q,q+0X4);N=C:MJ(N,C.mJ);else if N==0b1110101 then if 0x268==0X142 then if not(C[29])then C[55.0]=(0X158-C[0X7]);end;(C)[0x27]=-(-C[0X3F]);end;n=C:oY(X,Z,l,a,E);break;end;end;end;return a,n,E,X,Z,l;end,FY=function(C,R,T)R=(-1948017597.0+(C.Rj((C.Uj((C.AJ((T[0x1]<=T[0b1100__]and T[0b111]or T[0X2]),0X8)),(T[0X3]-T[0XB]))))));return R;end,_j=function(C,R)local P,T,A={},#R,(0X0);return T,P,A;end,uY=function(C)local X=({});return{X};end,F=function(C,R)local F=R==0x4;return F;end,ij=function(C,R,T,q)local g=C:YY(T);C:HY(T);for m=0x1F,0b1010010,0B110011 do if C[21]then C[0xB]=C[50]-C[0B1];else if C[0b1010]then C[0b110110]=-C[0B110011_];else R,q=C:Oj(m,g,R,q);end;end;end;return{g,R,q};end,Aj=bit32,R=function(C,R,T)if 0XB4==0x20 then C[0x7]=-C[0X33];if C[0X14]then C[0X5]=C[0X37]-C[0x23];(C)[49]=(-(-C[0x2E]));else(C)[0b1000]=C[0x3F]-C[49.0];end;end;if R>=0x45 and R<0xC0 then(C):rY(T);else if R==192.0 then C:qJ(T);end;end;end,vj=function(C,R,T,q,u,c)if C[43]then if not(C[0B1010])then(C)[0xD]=430/C[0B111011];(C)[0X20__]=C[0X11]%C[0X19];else C[0x6]=C[0B100011]%C[46.0];end;end;if R<=0X42 then(q[1][0x1F])[c+2]=u;else if R>0X42 and R<=0b1111110 then(q[0X1][0x1F])[c+0X3]=(T);end;end;end,fj=function(C,R,T)T=C:NY(R);return{T};end,B=function(C,R)local T=R[0b1][0X7]();return{T};end,cJ=function(C,R)local g=R[1.0][0x8]();return g;end,TJ=function(C,R)(C):iY(R);end,n=function(C,R)(R[0b1])[17]=(function(S)S=C:mj(S,R);local d,x,G=C:_j(S);if C[0X3E]~=C[0X29]then C[0X22]=(C[62]*C[0X3D]);C[0X13]=(0x82+C[0x36]);end;G=C:L(x,R,S,G,d);return R[0X1][0X13](x);end)(R[0x1][0x17]([=[LRAY.&4Ze=:e(P!ZCE6<ErZ1?!(R*-2Fdgc<_!147gMe&B4uC-@<k?HATDg0E^p.V7fmOD7g3jA@;KaM#'4m,Bl7QR"`7[i@q\Ar'+"sO#p:?55WU#K3\<KF4Y&*F+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+?CVq,pbfA,pbfA,pbf&,s<A9+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+?_kQ+<VdL+<VdL+<VdL.O@>F.O-6),sX^\,pbf&,:Xuc4[:,4+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL3Zp%$.j,rW+<VdL+?Ctu5UA$J5X7R\5UA!.,sX^\5X6V\,9o5l+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdW,:u/G,q:#[+<VdL/h91>+<VdL/il6_5X7S",sX^\5X6eF5X6e[+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+?_2)+<Vdf,q:3+5X7S"5V"lJ3^>qq5X6eK.R66a5X7R\,p4<Q+<VdL+=/-Q+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL/ikI,.O?;i3ZoOf+?DY9/NQ-^.R66a5X7S"/hSb!+=/-Q+<Vdf4[:,>+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<Vdl+=006/NP@+5X7S"5V4*A4Y@j%,q:Ar+<VdL+=09<5U/N:+<VsT4Y%X$/g)8Z+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<Vdl3^>q[/hS8!5Th17+@%%l+<VdZ+<VdL+<W1"5X6V<.m5C44Zso14[:,4+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL4[;7t5X7RW5ThX$/g)W/5X7S"5X7RW/h/J7,p5Gq5Wq7q+@%%l+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<Vdi5X6VA,sX^\5X7S"5X7S"5U@^A5X7S"5Ti3B+@&17/ikI.5Th0l+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+=]E;.Ol_j5X7S"5X7@_,pb&f.OlYh.mQ?G5X7S"5U@^&5X7S".NfiV+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<W0\.O-Dn/M/Rt+<VdL.j,s",sX^\5X7S"5X7S"4[;7t5U@^+4Zso1+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL5V=N2,pb$(+<W9Z4Zt;V/g)8Z+=00$4Y&*:+<VdZ+>#iD5X6ea,qU5^+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+?C_l,s<@s,sX^\5X7S"5X7Rt+<VdL+<VdZ4[;7Y.Nfid.O@>F,p4<Q+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+=\Tc3Zp[Q5X7S"5X7S"5X7S"5X6PZ5X7S"5X7S"5X6eA+?_5$4Wkji+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+=/<[3^>q^+<VdL/ik*t+<W9Z5X7S"5X7S"5X7S"5X7S"/ik:D3^=f1+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdV3\)LA3^>qq5Ti<W5X7RW5X6G7/g)8Z+<VdL+<s-:5X7S"3^"c8+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdV+=\[&.O?Sq5Th0l+<Wol5X7It5X7S"5X6V\5X7RW+<W^1.R5:F/g)8Z+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+?Cu;4Xqp25X6GQ.P;hd+<VdL+<VdL/jLO%+<VdL,sX^A.O@>+3ZoOf+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL5Ti3T,q;/).R66A3^>qq.P37q+<VdL+<Vdf+<Vdl5Uo#K,sX^Y+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdY4X21$,:,T?+<Wp75X7S"5X7S"5X7Rq+@&1W.Nfrc,pONT+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<Wfi4Xqa..OmJE5X6G7+<VdZ3]];E/g)9%5X7Iq,pPZ?4Wlm1+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdY+?Db6.OlYh+@&1W5X7R\,<@,95X7S"4Ztqn,9n^"+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL5Th[(.Olo2,:Yi;/jMZe5X7S"/NPpF/L)Ji5V!s"+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdZ4Xqs3.m5@3,:Yi;/il$F4ZtAX4Y8-6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+>"la,:+fh/NkR5,:bo?/hSb>4Zso1+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdY,q:2j,pOWa.Olo55X6VY+?^hi+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Wol+<VdL+>,,i,:,Jq+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vd9$6UH6+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<VdL+<Vdl5WU#1+<Vdl7fmN]7g3jPBl8"u!#PqG#DiH^#7h%n!tPVB('>0[#6kAC#7qXT)@m&W$4d@a(()5r#6k_M#:L?!.Luag'b:O'()8S8#6l+X#=oUL3Y)H"+qFoT(*Z'U#6lRe#C%"4#7h&r!EB@@#?k+4#C&1-#9SHsM?*a="t'Y*!=p7W/HH(]#=8FpJ,oWR%gN=`!=',?FU&E^#SmXM%gQ>E#6tK##7CP4$l9-R+oqob%tO`h#9OIl$O8$r7LL%\-S>cS0-=O/0/j\Y$O8U.&ISh&#=/b'2\7hT#8[VM$jR"B64=8(!#I!f#9j0R-P&KT#;7/b&J$5o,7t_N-[64.+$W%(cN:!F#CdAi!`oVV'$gVt#CdB,!`'&N'&Nb'#CdB<"%NTG&uPq@#CdBT"ePf#IhKd'G6`U1f)pd/#CdA)Nr]K8'&NkB#Cd@fQN7>@&uPaX7nOC!(DdGl#:Ba]&dJXH64t"9!!s_P#9j0b*tLmX%jr/a(+1aWAJPM()%dVh0*acZ#;6WG(C)#e>SdVM#=949!rtD!#6uFR*u>GV*&nbF!tZFW(I3iY*N'./!=+)pLB?W?#CdbL!hTJuIiZi>f)c2,*VTcq!XF2q^B]f%#Cdc?#1ik\Ii[\TcN+9#*KLF)!=+)pY6MH:#Cdc?#*/ciIi\7fB*Wo,`s1]-#CdbT"ucd:*N'*s!=+)pV['+##CdbL!`'&N*JXi[!XF2qY6KI]IiXj\pAkMK*R=r!!XF2qLB>d'#CdbT#+#DsIi\On?O)'$k6<:=IiX:GLB@d2*KLEn!XF2qLB<eD#Cdbl#H%V.IiX:G^B"Rh*R=uj!XF2qLB;Z)IiX:J*s[99T*IRcIiY-dT)o7I*R=tG!XF2qV[)Yk#Cdb\#Hn16IiZ9.`rZKq*NoZ##Cdbt#"JoJ*R=t_!sa;rVZp3-IiX:K`rQEp*VTcQ!XF2q^BWQr#Cdbl#B'is*VTd4!XF2q`s/^J#Cdbd"!8UW*=iqk/KG'D#=0C9-P/-V#8[VM*X;oT666O:!!s/@#9j0S%gQ_l#7i6q,6n_aFX.2&&J68n%gQ>b#6uMo,R4hb>U0OZ#=9[D!<=D^#6uFR#8[W%!@\6q#?iP](EYC]#9OaJ.0h4*5q<0n+$hCf-Qk8s#<)lR/I+LBM?,:67pq2T/SIXEB.YK,+%7bW:Ce*j+#bT,/I,?95qN=K#=0sIB3:#l/dH<&M?,>CDf98@06\L,/pDLM'.tA6-oWa`IpYJo#EJn)%flor!=)Cr#F>Gr5u@lZ!EVQa#H%TP5uAGb!AHB.#Hn.55uIrs!?XU*&$H")2,X[o!=(nh#JU:92,a_r#@(14#7!Ro)1hki]=],6));end,zY=function(C,R,T,q)local S;if C[30.0]then(C)[0x35]=(-C[0X1C]);else repeat local v=C:ij(R,q,T);S,R,T=C.dJ(v);until C:lj(S);end;return{T,R};end,H="Lightray",Oj=function(C,R,T,q,u)local y=(0X8);while true do if y<0x1C__ then if C[0X14_]~=C[0x10]then(C)[0B110010]=C[0x15]/C[0B100];end;y=(28.0);else if y==0B11100 then if R<0X52 then q=C:p(T,q,u);else if R==0x52 then u=C:DY(u);end;end;break;end;end;end;return q,u;end,Wj=function(C,R,T)local j=R-T;return j;end,Rj=bit32.bnot,lj=function(C,R)local y=R<0X80;return y;end,gY=function(C,R)R=(R/256.0);return R;end,ZY=function(C,R,T,q,u)local H=0X2F;repeat if H>=0B1101100 then if R<0x40__ then T=C:I(T);u=(T%0x100);else if R==0X40 then q=C:aY(q);end;end;break;else if H>=0B101111 then if 99==0X49 then(C)[0x26]=(C[17]-C[0X3A]);C[0b101001]=-C[0x24];end;H=0b1101100;end;end;until false;return T,q,u;end,FJ=function(C,R,T,q)if C[0b100111]then C[0X17]=(-C[36.0]);else for f=0x1,q do C:LJ(T,f,R);end;end;end,m=bit32.band,dJ=unpack,WY=function(C,R,T)(R[0x1])[0B1]=(T);end,Cj=function(C,R)local l,j=R[1.0][0B11000]();return j,l;end,_=next,Ej=function(C,R,T,q)(R[0b100])[q]=(q-T);end,eY=function(C,R)(R[0X1])[0X4]=(function(Z,y,e)if C[0X1E__]~=C[0x13]then(C)[0X31]=(0x1FD*C[25]);(C)[0xD_]=(-C[0xE]);end;for l=0X71,0XE6_,0x75 do e,y=C:qj(l,Z,e,y);end;return(C):Yj(y,Z,R,e);end);end,T=function(C,R)(R[0X1])[31]=nil;end,y=function(C,R,T,q,u)(T[0B1000])[q]=(R[0b1][0B100100][u]);end,bJ=function(C,R,T)if R<=0X78 then C:JY(T);(C):U(T);else if R<=0xFA then(C):EY(T);(C):tj(T);end;end;end,Q=function(C,R,T,q,u)local e=(-2033451005.0+(C.r((C.PY((C.AJ(C.mJ[0x7],0X5)),0xF)),0X3)));while true do if e>=0X3F then if R>=0b11000011 then u=T[0x1][0x14](q);else if R>=0x6C then q=T[0X1][0X8]();end;end;break;else if e<0x3F and e>=0B110 then if C[0XB]~=C[0x22]then C[0b10110]=(0X1A3*C[0x3B_]);end;e=C:Xj(e,C.mJ);C.u[0X8E]=e;end;end;end;return q,u;end,hY=function(C,R,T,q)if not C[33]then for g=0X1,T do(C):RY(g,R,q);end;else(C)[0B110111]=0x153_*C[28];(C)[0X4]=(-(-C[0x27]));end;end,Yj=function(C,R,T,q,u)if(u-R+0X1)<=0x1F3D then return q[0x1][25](T,R,u);else return(q[0B1][0xC])(T,R,u);end;end,qj=function(C,R,T,q,u)if 0X1CE==0XAB then(C)[0x1_]=(C[0X15]-C[62.0]);(C)[0X1A]=C[0x2]%C[0X13];end;if R>=0X71 and R<230 then u=u or 0x1;else if R==0XE6__ then q=(q or#T);end;end;return q,u;end,eJ=function(C,R,T)if C[0xB_]~=C[0X20]then(C)[0x13]=(-(-C[0b10010]));end;if R<=0x1F then(T[0x1])[0x13]=(C.fJ);(T[1])[0X1C]=(C.m);(T[0X1])[0XA]=C.Uj;else if R>0X1F and R<=0X62 then(T[0X1])[0B10110]=C.GJ;T[0X1][0b100110_]=C.PY;end;end;end,wY=function(C,R,T,q)if R==0XBD then T=(q%256.0);else if R==0x2F then q=C:UJ(q);end;end;return T,q;end,JJ=function(C,R,T)local X=T[R[0x1_][0b1000]()];return X;end,BJ=function(C,R,T)local H=(-0X87DF7D3A+(C.k((C.PY((C.Uj((C.nJ("<d","\u{0}\0\0\x62\xe1\x0c\xcf\u{41}")),(C.nJ(">i8","\x00\z  \0\z  \0\u{0}\z  \82\xf3\xe8\x6c")))),0x2__)),0x5)));while true do if H>=0X63 then if R>0B1100101 then C:l(T);else if R==0X65 then(C):XY(T);end;end;break;else if H<0X63 and H>=0B100011 then if C[0X3C]then C[0X3D]=-C[0B101111];(C)[21.0]=-(-C[62.0]);end;H=0xAB917A8+(C.GJ((C.Uj((C.nJ(">d","\x41\xe1\150\111\82\224\u{0}\x00")),C.mJ[0x3_])),(C.PY((C.nJ("\62i4","\82\243\232\u{6c}")),0x3))))-C.mJ[5.0]+C.mJ[4]-C.mJ[0x1];end;end;end;end,wj=function(C,R,T,q)(R[0X1][0X1F][T])[R[0x1][0x1F][T+1.0]]=q[R[0x1][31][T+0B10_]];end,QY=function(C,R,T,q)local m=(0x42F3DE82+(C.k((C.m((C.m((C.nJ(">I\56","\0\0\u{0}\u{0}\49\x86\184\222")),(C.nJ("<\x498","\u{64}\146\86\143\x00\x00\u{0}\0")))),(C.GJ(C.mJ[0X3],(C.mJ[0B10]>=C.mJ[0b110]and C.mJ[0x1]or C.mJ[0b111]))))),0b110))-C.mJ[0x6]);while true do if m==0x16 then if C[41.0]then(C)[4]=432.0*C[0x1];(C)[0B110000__]=(487.0+C[36]);end;m=0x5C;else if m==92 then if R<=0X56_ then T=q%256.0;else if R<=175 then q=(q/256.0);end;end;break;end;end;end;return T,q;end,lY=function(C)local x,j=0X0,(1);return{j,x};end,i=function(C,R)(R[0B1])[0x6]=(function(l,r,f)local E,z,Y=(l[0x6]),l[0b1000],l[11];local T,u,h,k,x=l[0b11],(l[0x4]),(l[5.0]),(l[0x7]),l[0xA];f=(function(...)local g,j,O=(R[1.0][0X14](E)),-0B1,(0X1);local v,N=R[0B1][0X2](...);local B,Z=R[0b1][0x12]();local X,m,P,p=R[0X1_][0x5](function(m,a,V,A,n,w,P)while true do P=(T[O]);if P<0B1111000 then if P<=0XF then if P>0XB then g[h[O]]=(z[O]);else if P<11.0 then m=k[O];a=(m[0x2]);V=(#a);A=V>0b0 and{};n=R[0X1][0X6](m,A);R[0X1][0B100011](n,B);(g)[h[O]]=(n);if A then for o=0B1,V do m=(a[o]);n=(m[0X1]);if m[0x2]==0x1 then if not Z then Z=({});end;w=(Z[n]);if not w then w={[0B1]=n,[0x2__]=g};Z[n]=(w);end;A[o-0B1]=(w);else A[o-0b1]=(r[n]);end;end;end;else m,a=h[O],(u[O]);if a~=0X0 then j=m+a;end;return true,m,m+0B1_;end;end;else if P>0B1100101 then if P>=0B1110101 then g[h[O]]=true;else if P<=0x6B then if P>0x67 then g[h[O]]=#g[u[O]];else(g)[h[O]]=(g[u[O]][k[O]]);end;else O=u[O];end;end;else if P>=0B1000110_ then if P<92 then if P<=70.0 then g[h[O]]=z[O];else if P>74.0 then if P>=0x5A then m=(h[O]);for n=0X1,v do g[m+n-1.0]=N[n];end;j=m+v-0X1;else(g)[h[O]]=nil;end;else if P<0X4A then g[h[O]]=(g[u[O]]>g[x[O]]);else m,a=h[O],u[O];V=(g[a]);for J=a+0x1,x[O]do V=(V..g[J]);end;(g)[m]=V;end;end;end;else if P<=92.0 then if Z then for S,s in Z do if S>=h[O]then s[0X2]=(s);s[0X3]=g[S];(s)[0x1]=0B11;(Z)[S]=(nil);end;end;end;else if P>95 then if g[u[O]]then(g)[h[O]]=g[u[O]];else(g)[h[O]]=(g[x[O]]);end;else g[h[O]]=(g[u[O]]==g[x[O]]);end;end;end;else if P<0x2D_ then if P<=0X16 then if P>=0x11_ then if P<19.0 then if not g[h[O]]then O=u[O];end;else if P<=19.0 then if not g[u[O]]then(g)[h[O]]=g[u[O]];else g[h[O]]=(g[x[O]]);end;else g[h[O]][z[O]]=(g[x[O]]);end;end;else if g[h[O]]==k[O]then O=u[O];end;end;else if P>0b100010 then m,a=h[O],x[O];if a==0X0 then V=(j);else V=(m+a);end;A,n=R[1.0][0X2](g[m](R[1.0][0X4](g,m+0X1,V)));for s=0x1,A do g[m+s-0x1]=(n[s]);end;j=m+A-0B1;else m,a=h[O],(x[O]);if a==0X0 then V=(v);j=(m+V-0X1__);else V=(a);end;for q=0x1,V do(g)[m+q-0x1_]=(N[q]);end;end;end;else if P<=0X2D then m=h[O];g[m](g[m+1.0]);j=(m-0X1);else if P>55.0 then if P<0x42 then(g)[h[O]]=g[u[O]];else if P<=0x42 then if Z then for W,I in Z do if W>=h[O]then I[0x2]=(I);I[0x3]=(g[W]);(I)[0x1]=(0x3);Z[W]=(nil);end;end;end;return;else g[h[O]]=g[u[O]][x[O]];end;end;else if P<0X35 then if P>0X30 then m,a=h[O],u[O];for e=a,j do g[m][e-a+0x1]=g[e];end;else if P>=0x30 then(g)[h[O]]=false;else g[h[O]]=R[1][0X16](g[u[O]],k[O]);end;end;else if P<=0b110101 then m,a=h[O],x[O];if a==0.0 then V=j;else V=(m+a);end;g[m][z[O]](g[m],R[0B1][0X4__](g,m+0b1,V));j=m-1;else m,a=(h[O]),x[O];if a==0X0 then V=j;else V=(m+a);end;A,n=R[1][0b10](g[m][z[O]](g[m],R[0x1][0X4](g,m+0X1,V)));for h=0b1,A do g[m+h-0b1]=(n[h]);end;j=(m+A-0X1);end;end;end;end;end;end;end;end;else if P<=0x89__ then if P>0B10000001 then(g)[h[O]]=({});else if P>=0X7F then if P<=0x7F then g[h[O]]=R[0b1][0B100010][x[O]];else g[h[O]]=(not g[u[O]]);end;else m,a,V=(h[O]),(u[O]),(x[O]);for O=0X0,V-0X1 do g[m+O]=g[a+O];end;end;end;else g[h[O]]=B[z[O]];end;end;O=(O+1);end;end);if not X then if Z then for L,H in R[0x1][0X1B],Z do if L>=0x1 then H[2]=(H);(H)[0b11]=g[L];H[0X1]=(0x3);Z[L]=nil;end;end;end;R[0B1][9]("L\u{69}g\104tray \101rro\u{72}:"..(Y[O]or"(\u{75}\u{6e}k\110own)").."\x3a\32"..R[0x1][0X20](m),0x0);else if m then if p~=P then return(g[P])(R[1.0][0X4__](g,p,j));else if P then return g[P]();end;end;else if P then return R[0X1][0X4](g,P,p);end;end;end;end);return f;end);end,x=function(C,R,T,q,u,c,x)local M=(-0x20E8B0BE_+(C.m((C.Uj((C.mJ[0x5]>C.mJ[0x1]and C.mJ[0X2]or C.mJ[0X8]),(C.nJ(">I4","\x31\x86\xb8\222")))),(C.r((C.mJ[0x9]+C.mJ[1]),0x7)))));repeat if M==29.0 then if R>=0xFF then u[0X5][x]=(q);else if R>=0B111100 then u[0b1010][x]=c;(u[0X4])[x]=T;end;end;break;else if M==0x7 then if C[0B111]~=C[0X1F]then C[61]=(-C[0B11000]);if not(C[0x3F])then C[25.0]=(-C[0b1001]);end;end;M=-0x3E1DD2AB+(C.m((C.m((C.k((C.nJ(">i4","\x07\x8a\74\94")),0B111)),(C.r((C.mJ[0xB]-C.mJ[5]),0x4)))),(C.nJ(">\073\56","\x00\z \x00\x00\u{0}\x8f\x56\x92\u{64}"))))-C.mJ[0x6]+C.mJ[5.0]+C.mJ[6];C.u[0x108]=(M);end;end;until false;end,LY=function(C,R,T,q,u,c,x,Z)(R)[q]=(c[0X1][0X22][Z]..c[1.0][0X22][T]..c[0x1][0x22][x]..c[0x1][0x22][u]);end,mj=function(C,R,T)R=T[1.0][0B11101](R,"z","\33\u{21}!\u{21}!");return R;end,AJ=bit32.rshift,KJ=function(...)(...)[...]={...};end,TY=function(C,R)local m=((R-R%0X4)/0X4);return m;end}):xJ({});
+-- Hafiy//Script Fake Purchase GUI V15.0 - CLEAN & ULTRA FAST
+
+local Players = game:GetService("Players")
+local MarketplaceService = game:GetService("MarketplaceService")
+local TweenService = game:GetService("TweenService")
+local UserInputService = game:GetService("UserInputService")
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+local Colors = {
+    Panel = Color3.fromRGB(15, 15, 25),
+    Card = Color3.fromRGB(22, 22, 38),
+    Accent = Color3.fromRGB(0, 170, 255),
+    Success = Color3.fromRGB(0, 255, 140),
+    Error = Color3.fromRGB(255, 50, 70),
+    TextPrimary = Color3.fromRGB(235, 235, 250),
+    TextSecondary = Color3.fromRGB(100, 100, 140),
+    InputBg = Color3.fromRGB(12, 12, 20),
+    Border = Color3.fromRGB(35, 35, 60),
+}
+
+local gui = Instance.new("ScreenGui", playerGui)
+gui.Name = "HafiyScript"
+gui.ResetOnSpawn = false
+gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+-- MAIN FRAME
+local mainFrame = Instance.new("Frame", gui)
+mainFrame.Size = UDim2.new(0, 300, 0, 320)
+mainFrame.Position = UDim2.new(1, -310, 0.5, -160)
+mainFrame.BackgroundColor3 = Colors.Panel
+mainFrame.BorderSizePixel = 0
+mainFrame.Active = true
+mainFrame.Draggable = true
+Instance.new("UICorner", mainFrame).CornerRadius = UDim.new(0, 12)
+
+local mainStroke = Instance.new("UIStroke", mainFrame)
+mainStroke.Color = Colors.Border
+mainStroke.Thickness = 1
+
+-- TOP BAR
+local topBar = Instance.new("Frame", mainFrame)
+topBar.Size = UDim2.new(1, 0, 0, 3)
+topBar.BackgroundColor3 = Colors.Accent
+topBar.BorderSizePixel = 0
+Instance.new("UICorner", topBar).CornerRadius = UDim.new(0, 12)
+
+-- HEADER
+local headerFrame = Instance.new("Frame", mainFrame)
+headerFrame.Size = UDim2.new(1, 0, 0, 40)
+headerFrame.BackgroundTransparency = 1
+
+local logoCircle = Instance.new("Frame", headerFrame)
+logoCircle.Size = UDim2.new(0, 28, 0, 28)
+logoCircle.Position = UDim2.new(0, 10, 0, 6)
+logoCircle.BackgroundColor3 = Colors.Accent
+Instance.new("UICorner", logoCircle).CornerRadius = UDim.new(1, 0)
+
+local logoText = Instance.new("TextLabel", logoCircle)
+logoText.Size = UDim2.new(1, 0, 1, 0)
+logoText.BackgroundTransparency = 1
+logoText.Text = "H"
+logoText.Font = Enum.Font.GothamBlack
+logoText.TextSize = 14
+logoText.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+local title = Instance.new("TextLabel", headerFrame)
+title.Size = UDim2.new(0, 140, 0, 16)
+title.Position = UDim2.new(0, 44, 0, 8)
+title.BackgroundTransparency = 1
+title.Text = "HAFIY//SCRIPT"
+title.Font = Enum.Font.GothamBlack
+title.TextSize = 13
+title.TextColor3 = Colors.TextPrimary
+title.TextXAlignment = Enum.TextXAlignment.Left
+
+local subtitle = Instance.new("TextLabel", headerFrame)
+subtitle.Size = UDim2.new(0, 140, 0, 12)
+subtitle.Position = UDim2.new(0, 44, 0, 24)
+subtitle.BackgroundTransparency = 1
+subtitle.Text = "Ultra Fast v15.0"
+subtitle.Font = Enum.Font.GothamMedium
+subtitle.TextSize = 9
+subtitle.TextColor3 = Colors.Accent
+subtitle.TextXAlignment = Enum.TextXAlignment.Left
+
+-- HEADER BUTTONS
+local minimizeBtn = Instance.new("TextButton", headerFrame)
+minimizeBtn.Size = UDim2.new(0, 24, 0, 24)
+minimizeBtn.Position = UDim2.new(1, -56, 0, 8)
+minimizeBtn.BackgroundColor3 = Colors.Card
+minimizeBtn.Text = "—"
+minimizeBtn.Font = Enum.Font.GothamBold
+minimizeBtn.TextSize = 12
+minimizeBtn.TextColor3 = Colors.TextSecondary
+Instance.new("UICorner", minimizeBtn).CornerRadius = UDim.new(0, 6)
+
+local closeBtn = Instance.new("TextButton", headerFrame)
+closeBtn.Size = UDim2.new(0, 24, 0, 24)
+closeBtn.Position = UDim2.new(1, -28, 0, 8)
+closeBtn.BackgroundColor3 = Colors.Card
+closeBtn.Text = "✕"
+closeBtn.Font = Enum.Font.GothamBold
+closeBtn.TextSize = 10
+closeBtn.TextColor3 = Colors.Error
+Instance.new("UICorner", closeBtn).CornerRadius = UDim.new(0, 6)
+
+-- CONTENT AREA
+local contentFrame = Instance.new("Frame", mainFrame)
+contentFrame.Size = UDim2.new(1, -20, 1, -90)
+contentFrame.Position = UDim2.new(0, 10, 0, 45)
+contentFrame.BackgroundTransparency = 1
+contentFrame.ClipsDescendants = false
+
+-- INPUT FUNCTION
+local function makeInput(labelText, placeholder, yPos)
+    local label = Instance.new("TextLabel", contentFrame)
+    label.Size = UDim2.new(1, 0, 0, 12)
+    label.Position = UDim2.new(0, 0, 0, yPos)
+    label.BackgroundTransparency = 1
+    label.Text = labelText
+    label.Font = Enum.Font.GothamBold
+    label.TextSize = 8
+    label.TextColor3 = Colors.TextSecondary
+    label.TextXAlignment = Enum.TextXAlignment.Left
+    
+    local inputFrame = Instance.new("Frame", contentFrame)
+    inputFrame.Size = UDim2.new(1, 0, 0, 26)
+    inputFrame.Position = UDim2.new(0, 0, 0, yPos + 14)
+    inputFrame.BackgroundColor3 = Colors.InputBg
+    inputFrame.BorderSizePixel = 0
+    Instance.new("UICorner", inputFrame).CornerRadius = UDim.new(0, 6)
+    
+    local stroke = Instance.new("UIStroke", inputFrame)
+    stroke.Color = Colors.Border
+    stroke.Thickness = 1
+    
+    local input = Instance.new("TextBox", inputFrame)
+    input.Size = UDim2.new(1, -10, 1, 0)
+    input.Position = UDim2.new(0, 5, 0, 0)
+    input.BackgroundTransparency = 1
+    input.Text = placeholder
+    input.PlaceholderText = placeholder
+    input.PlaceholderColor3 = Color3.fromRGB(60, 60, 90)
+    input.TextColor3 = Colors.TextPrimary
+    input.Font = Enum.Font.GothamMedium
+    input.TextSize = 11
+    input.ClearTextOnFocus = false
+    input.TextXAlignment = Enum.TextXAlignment.Left
+    
+    input.Focused:Connect(function()
+        stroke.Color = Colors.Accent
+        if input.Text == placeholder then input.Text = "" end
+    end)
+    
+    input.FocusLost:Connect(function()
+        stroke.Color = Colors.Border
+        if input.Text == "" then input.Text = placeholder end
+    end)
+    
+    return input
+end
+
+local idBox = makeInput("ASSET ID", "Enter UGC ID...", 0)
+local timeBox = makeInput("DELAY (SECONDS)", "0.001 = Fastest", 44)
+
+-- ITEM INFO CARD
+local infoCard = Instance.new("Frame", contentFrame)
+infoCard.Size = UDim2.new(1, 0, 0, 55)
+infoCard.Position = UDim2.new(0, 0, 0, 92)
+infoCard.BackgroundColor3 = Colors.Card
+infoCard.BorderSizePixel = 0
+Instance.new("UICorner", infoCard).CornerRadius = UDim.new(0, 8)
+
+local thumbnail = Instance.new("ImageLabel", infoCard)
+thumbnail.Size = UDim2.new(0, 40, 0, 40)
+thumbnail.Position = UDim2.new(0, 8, 0, 8)
+thumbnail.BackgroundColor3 = Colors.InputBg
+thumbnail.BorderSizePixel = 0
+thumbnail.Image = "rbxassetid://0"
+thumbnail.ImageTransparency = 1
+thumbnail.ClipsDescendants = true
+Instance.new("UICorner", thumbnail).CornerRadius = UDim.new(0, 6)
+
+local thumbPlaceholder = Instance.new("TextLabel", thumbnail)
+thumbPlaceholder.Size = UDim2.new(1, 0, 1, 0)
+thumbPlaceholder.BackgroundTransparency = 1
+thumbPlaceholder.Text = "📷"
+thumbPlaceholder.TextSize = 16
+thumbPlaceholder.TextColor3 = Colors.TextSecondary
+
+local itemName = Instance.new("TextLabel", infoCard)
+itemName.Size = UDim2.new(1, -58, 0, 16)
+itemName.Position = UDim2.new(0, 54, 0, 6)
+itemName.BackgroundTransparency = 1
+itemName.Font = Enum.Font.GothamBold
+itemName.TextSize = 10
+itemName.TextWrapped = true
+itemName.TextXAlignment = Enum.TextXAlignment.Left
+itemName.TextColor3 = Colors.TextPrimary
+itemName.Text = "No item selected"
+
+local itemPrice = Instance.new("TextLabel", infoCard)
+itemPrice.Size = UDim2.new(1, -58, 0, 16)
+itemPrice.Position = UDim2.new(0, 54, 0, 22)
+itemPrice.BackgroundTransparency = 1
+itemPrice.Font = Enum.Font.GothamBlack
+itemPrice.TextSize = 13
+itemPrice.TextColor3 = Colors.Success
+itemPrice.TextXAlignment = Enum.TextXAlignment.Left
+itemPrice.Text = "--- R$"
+
+local itemIdLabel = Instance.new("TextLabel", infoCard)
+itemIdLabel.Size = UDim2.new(1, -58, 0, 12)
+itemIdLabel.Position = UDim2.new(0, 54, 0, 38)
+itemIdLabel.BackgroundTransparency = 1
+itemIdLabel.Font = Enum.Font.Gotham
+itemIdLabel.TextSize = 9
+itemIdLabel.TextColor3 = Colors.TextSecondary
+itemIdLabel.TextXAlignment = Enum.TextXAlignment.Left
+itemIdLabel.Text = "ID: -"
+
+-- STATS ROW
+local statsRow = Instance.new("Frame", contentFrame)
+statsRow.Size = UDim2.new(1, 0, 0, 30)
+statsRow.Position = UDim2.new(0, 0, 0, 152)
+statsRow.BackgroundTransparency = 1
+
+local function makeStat(label, value, xPos, color)
+    local statFrame = Instance.new("Frame", statsRow)
+    statFrame.Size = UDim2.new(0.33, 0, 0, 30)
+    statFrame.Position = UDim2.new(xPos, 0, 0, 0)
+    statFrame.BackgroundTransparency = 1
+    
+    local statLabel = Instance.new("TextLabel", statFrame)
+    statLabel.Size = UDim2.new(1, 0, 0, 10)
+    statLabel.BackgroundTransparency = 1
+    statLabel.Text = label
+    statLabel.Font = Enum.Font.GothamBold
+    statLabel.TextSize = 7
+    statLabel.TextColor3 = color
+    statLabel.TextXAlignment = Enum.TextXAlignment.Center
+    
+    local statValue = Instance.new("TextLabel", statFrame)
+    statValue.Size = UDim2.new(1, 0, 0, 18)
+    statValue.Position = UDim2.new(0, 0, 0, 10)
+    statValue.BackgroundTransparency = 1
+    statValue.Text = value
+    statValue.Font = Enum.Font.GothamBlack
+    statValue.TextSize = 13
+    statValue.TextColor3 = Colors.TextPrimary
+    statValue.TextXAlignment = Enum.TextXAlignment.Center
+    
+    return statValue
+end
+
+local totalPurchases = makeStat("TOTAL", "0", 0, Colors.Accent)
+local successCount = makeStat("SUCCESS", "0", 0.33, Colors.Success)
+local failedCount = makeStat("FAILED", "0", 0.66, Colors.Error)
+
+-- BUTTONS
+local buttonArea = Instance.new("Frame", mainFrame)
+buttonArea.Size = UDim2.new(1, -20, 0, 36)
+buttonArea.Position = UDim2.new(0, 10, 1, -46)
+buttonArea.BackgroundTransparency = 1
+
+local function makeButton(text, color1, color2, xPos)
+    local btn = Instance.new("TextButton", buttonArea)
+    btn.Size = UDim2.new(0.48, 0, 0, 36)
+    btn.Position = UDim2.new(xPos, 0, 0, 0)
+    btn.BackgroundColor3 = color1
+    btn.Text = text
+    btn.Font = Enum.Font.GothamBold
+    btn.TextSize = 11
+    btn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    btn.BorderSizePixel = 0
+    Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 8)
+    
+    local gradient = Instance.new("UIGradient", btn)
+    gradient.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, color1),
+        ColorSequenceKeypoint.new(1, color2)
+    })
+    gradient.Rotation = 90
+    
+    return btn, gradient
+end
+
+local purchaseButton, purchaseGrad = makeButton("⚡ PURCHASE", Color3.fromRGB(0, 100, 200), Color3.fromRGB(0, 180, 255), 0)
+local autoButton, autoGrad = makeButton("🔥 AUTO LOOP", Color3.fromRGB(130, 0, 255), Color3.fromRGB(0, 100, 200), 0.52)
+
+-- PURCHASE LOGIC
+local lastId = nil
+local cachedName = "Unknown"
+local cachedPrice = "0"
+local stats = {total = 0, success = 0, failed = 0}
+
+local function updateStats()
+    totalPurchases.Text = tostring(stats.total)
+    successCount.Text = tostring(stats.success)
+    failedCount.Text = tostring(stats.failed)
+end
+
+local function fetchItem(id)
+    local success, info = pcall(function()
+        return MarketplaceService:GetProductInfo(id)
+    end)
+    
+    if success and info then
+        cachedName = info.Name or "Unknown"
+        cachedPrice = tostring(info.PriceInRobux or 0)
+        itemName.Text = cachedName
+        itemPrice.Text = cachedPrice .. " R$"
+        itemIdLabel.Text = "ID: " .. tostring(id)
+        
+        thumbnail.Image = "rbxthumb://type=Asset&id="..tostring(id).."&w=150&h=150"
+        thumbnail.ImageTransparency = 0
+        thumbPlaceholder.TextTransparency = 1
+    else
+        itemName.Text = "Failed to fetch"
+        itemPrice.Text = "--- R$"
+        itemIdLabel.Text = "ID: " .. tostring(id)
+    end
+end
+
+local function purchaseUGC()
+    local idStr = idBox.Text:gsub("%s+", "")
+    local id = tonumber(idStr)
+    
+    if not id then
+        stats.total += 1
+        stats.failed += 1
+        updateStats()
+        return false
+    end
+    
+    if id ~= lastId then
+        fetchItem(id)
+        lastId = id
+    end
+    
+    local purchaseSuccess = pcall(function()
+        MarketplaceService:SignalPromptPurchaseFinished(player, id, true)
+    end)
+    
+    stats.total += 1
+    if purchaseSuccess then
+        stats.success += 1
+    else
+        stats.failed += 1
+    end
+    updateStats()
+    
+    return purchaseSuccess
+end
+
+-- SINGLE PURCHASE
+purchaseButton.MouseButton1Click:Connect(function()
+    local success = purchaseUGC()
+    local notif = Instance.new("TextLabel", gui)
+    notif.Size = UDim2.new(0, 200, 0, 30)
+    notif.Position = UDim2.new(0.5, -100, 0, 20)
+    notif.BackgroundColor3 = success and Color3.fromRGB(10, 40, 25) or Color3.fromRGB(50, 10, 15)
+    notif.Text = success and "✓ Purchased!" or "✗ Failed"
+    notif.Font = Enum.Font.GothamBold
+    notif.TextSize = 12
+    notif.TextColor3 = success and Colors.Success or Colors.Error
+    Instance.new("UICorner", notif).CornerRadius = UDim.new(0, 8)
+    
+    TweenService:Create(notif, TweenInfo.new(0.3), {Position = UDim2.new(0.5, -100, 0, 30)}):Play()
+    task.delay(1.5, function()
+        if notif.Parent then notif:Destroy() end
+    end)
+end)
+
+-- AUTO LOOP (TRUE 0.001s SPEED)
+local running = false
+
+autoButton.MouseButton1Click:Connect(function()
+    running = not running
+    
+    if running then
+        autoButton.Text = "⏹ STOP"
+        autoGrad.Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0, Colors.Error),
+            ColorSequenceKeypoint.new(1, Color3.fromRGB(180, 0, 40))
+        })
+        
+        task.spawn(function()
+            while running do
+                purchaseUGC()
+                local rawDelay = tonumber(timeBox.Text) or 0.001
+                task.wait(rawDelay) 
+            end
+        end)
+    else
+        autoButton.Text = "🔥 AUTO LOOP"
+        autoGrad.Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0, Color3.fromRGB(130, 0, 255)),
+            ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 100, 200))
+        })
+        running = false
+    end
+end)
+
+-- MINIMIZE / CLOSE BUTTON (FIXED OPEN LOGIC)
+local mini = Instance.new("Frame", gui)
+mini.Size = UDim2.new(0, 40, 0, 40)
+mini.Position = UDim2.new(1, -55, 0.5, -20)
+mini.BackgroundColor3 = Colors.Panel
+mini.BorderSizePixel = 0
+mini.Visible = false
+mini.Active = true
+mini.Draggable = true
+Instance.new("UICorner", mini).CornerRadius = UDim.new(1, 0)
+
+local miniStroke = Instance.new("UIStroke", mini)
+miniStroke.Color = Colors.Accent
+miniStroke.Thickness = 1.5
+
+-- Use a TextButton inside so clicking works perfectly without dragging interfering
+local miniBtn = Instance.new("TextButton", mini)
+miniBtn.Size = UDim2.new(1, 0, 1, 0)
+miniBtn.BackgroundTransparency = 1
+miniBtn.Text = "H"
+miniBtn.Font = Enum.Font.GothamBlack
+miniBtn.TextSize = 16
+miniBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+miniBtn.MouseButton1Click:Connect(function()
+    mainFrame.Visible = true
+    mini.Visible = false
+end)
+
+local function hideGui()
+    running = false
+    mainFrame.Visible = false
+    mini.Position = UDim2.new(1, -55, 0.5, -20)
+    mini.Visible = true
+end
+
+minimizeBtn.MouseButton1Click:Connect(hideGui)
+closeBtn.MouseButton1Click:Connect(hideGui)
+
+-- OPENING ANIMATION
+mainFrame.Size = UDim2.new(0, 0, 0, 0)
+mainFrame.Position = UDim2.new(1, 0, 0.5, 0)
+mainFrame.BackgroundTransparency = 1
+
+task.delay(0.1, function()
+    TweenService:Create(mainFrame, TweenInfo.new(0.4, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+        Size = UDim2.new(0, 300, 0, 320),
+        Position = UDim2.new(1, -310, 0.5, -160),
+        BackgroundTransparency = 0
+    }):Play()
+end)
